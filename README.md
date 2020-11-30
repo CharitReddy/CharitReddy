@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ##  🔭 Currently working on - ReactJS and NodeJS.
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue&layout=socrates)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates)
 
 ### 📫 Reach out to me on: 
 
