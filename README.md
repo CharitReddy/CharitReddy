@@ -1,6 +1,8 @@
 ### Hi there 👋 
 ##  🔭 Currently working on - ReactJS and NodeJS.
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue&layout=socrates)
+
 ### 📫 Reach out to me on: 
 
 <a href="https://www.linkedin.com/in/charitreddy/" rel="nofollow"> <img src="https://github.com/CharitReddy/CharitReddy/blob/master/linkedin-badge.png" width="24px" height="24px" style="max:width:100%;"></img>  </a>
