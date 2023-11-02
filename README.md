@@ -1,7 +1,6 @@
 ### Hi there 👋 
-##  🔭 Currently working on - ReactJS and NodeJS.
+##  🔭 Can someone please offer me an interview? I make a good software engineer and am actively seeking roles.
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?layout=socrates)
 
 ### 📫 Reach out to me on: 
 
